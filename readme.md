@@ -1,3 +1,3 @@
 # Grocery Bud
 
-[Deployed Project]()
+[Deployed Project](https://grocery-bud-projectt.netlify.app/)
